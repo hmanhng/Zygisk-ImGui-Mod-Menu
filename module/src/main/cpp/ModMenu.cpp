@@ -7,7 +7,7 @@
 
 #include "imgui.h"
 
-#define TARGET_LIBRARY "libil2cpp.so"
+#define TARGET_LIBRARY "libFEProj.so"
 
 void ModMenu::DrawMenu(int width, int height) {
     ImGui::ShowDemoWindow();
